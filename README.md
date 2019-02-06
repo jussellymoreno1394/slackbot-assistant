@@ -1,5 +1,6 @@
 # SlackBotAssistant
-How to create a simple SlackBot from command line. WIP Project.
+
+How to create a simple SlackBot using Slack WebHook App and Twilio Autopilot.
 
 
 ### You have to create a project with Twilio Autopilot.
