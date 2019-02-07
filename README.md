@@ -3,15 +3,17 @@
 How to create a simple SlackBot using Slack WebHook App and Twilio Autopilot.
 
 
-### You have to create a project with Twilio Autopilot.
+### Creating a project with Twilio Autopilot:
 
-- Visit the Autopilot home in your Twilio console, then:
+- Create an account if you don't have one, go to [Twilio](https://www.twilio.com).
+
+- Go to [Twilio](https://www.twilio.com/console/projects/create), select **Products** and select **Autopilot**.
+
+- Visit the [Autopilot home](https://www.twilio.com/autopilot), in the Twilio console:
 
   - Click on "Create a new Assistant" to create a new Assistant
   
-  - Give your Assistant a name
-  
-  - Click the red Submit button
+  - Give your Assistant a name and then click the red Submit button
   
 
 ### Turn your Assistant into a Slackbot :
