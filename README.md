@@ -1,4 +1,4 @@
-# SlackBotAssistant
+# SlackBotAssistant  :octocat:
 
 How to create a simple SlackBot using Slack WebHook App and Twilio Autopilot.
 
@@ -14,7 +14,7 @@ How to create a simple SlackBot using Slack WebHook App and Twilio Autopilot.
   - Click the red Submit button
   
 
-### Turn your Assistant into a Slackbot:
+### Turn your Assistant into a Slackbot :
 
 - Visit Slack, then:
 
@@ -47,7 +47,7 @@ How to create a simple SlackBot using Slack WebHook App and Twilio Autopilot.
   ``` Assistant SID ```
   
   
-  ### command for assistant and task creation:
+  ### command for assistant and task creation  :computer::
   
   
    ``` node assistant.js ```
