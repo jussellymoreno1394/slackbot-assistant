@@ -20,7 +20,7 @@
   
   - Add your Assistant's custom webhook to the Slack URLs field:
   
-    - The custom Slack webhook for your Assistant takes this form:
+    - The custom Slack Outgoing Webhook app for your Assistant takes this form:
 
       **https://channels.autopilot.twilio.com/v1/<ACCOUNT_SID>/<ASSISTANT_SID>/slack**
 
