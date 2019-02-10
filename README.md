@@ -9,7 +9,7 @@ How to create a simple SlackBot using Slack Outgoing WebHook App and Twilio Auto
 
 - Go to [Twilio](https://www.twilio.com/console/projects/create), select **Products** and then, **Autopilot**.
 
-- Give a name to your project
+- Give a name to your project.
 
 
 ### Turn your Assistant into a Slackbot :
