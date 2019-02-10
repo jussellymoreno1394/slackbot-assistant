@@ -24,12 +24,11 @@
 
       - As you can see, you'll need two pieces of information from Twilio to complete this URL:
 
-        ``` Account SID ```
+        ``` Account SID ```  (Find  it in [Twilio Console list](https://www.twilio.com/console/autopilot/list))
+
       
         ``` Assistant SID ```
       
-        - You can find your Account SID in the [Twilio Console list](https://www.twilio.com/console/autopilot/list)
-
   - Give a name to your Bot. The name you give it is the one you will see when you invoke the bot in Slack.
   
   - Remember, Trigger Word(s) are required if no Channel is chosen.
