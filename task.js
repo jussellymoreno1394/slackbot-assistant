@@ -6,7 +6,7 @@ const client = require('twilio')(accountSid, authToken);
 // Build task actions that say something and listens for a repsonse.
 botTaskActions = {
   actions: [
-    { say: 'Hi there, i am GitBot' }, // Put your output here
+    { say: 'Hello World' }, // Put your output here
     { listen: true }
   ]
 };
