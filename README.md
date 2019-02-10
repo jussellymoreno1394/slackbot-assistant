@@ -16,7 +16,7 @@
 
   - Create a new Public Slack Channel
   
-  - Create new outgoing webhook integration in Slack
+  - Create a new outgoing webhook integration in Slack
   
   - Add your Assistant's custom webhook to the Slack URLs field:
   
