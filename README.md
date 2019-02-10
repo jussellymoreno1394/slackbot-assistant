@@ -14,26 +14,26 @@
 
 - Visit Slack, then:
 
-  - Create a new Public Slack Channel
+  - Create a new Public Slack Channel.
   
-  - Create a new outgoing webhook integration in Slack
+  - Create a new Outgoing Webhook integration in Slack.
   
-  - Add your Assistant's custom webhook to the Slack URLs field:
-  
-    - The custom Slack Outgoing Webhook app for your Assistant takes this form:
+  - The custom Slack Outgoing Webhook URL for your Assistant takes this form:
 
       **https://channels.autopilot.twilio.com/v1/<ACCOUNT_SID>/<ASSISTANT_SID>/slack**
 
-      As you can see, you'll need two pieces of information from Twilio to complete this URL:
+      - As you can see, you'll need two pieces of information from Twilio to complete this URL:
 
       ``` Account SID ```
       
       ``` Assistant SID ```
       
-      You can find your Account SID in the [Twilio Console list](https://www.twilio.com/console/autopilot/list)
+      - You can find your Account SID in the [Twilio Console list](https://www.twilio.com/console/autopilot/list)
 
-
-
+  - Give a name to your Bot. The name you give it is the one you will see when you invoke the bot in Slack.
+  
+  - Remember, Trigger Word(s) are required if no Channel is chosen.
+  
 ### In the files provided you will find these fields, change the "xxx" for your information:
 
   ``` accountSid ```
