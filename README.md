@@ -1,7 +1,5 @@
 # SlackBotAssistant  :octocat:
 
-How to create a simple "HELLO WORLD" SlackBot using Slack Outgoing WebHook App and Twilio Autopilot.
-
 
 ### Creating a project with Twilio Autopilot:
 
