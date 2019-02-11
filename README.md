@@ -26,7 +26,6 @@
 
         ``` Account SID ```  (Find  it in [Twilio Console list](https://www.twilio.com/console/autopilot/list))
 
-      
         ``` Assistant SID ```
       
   - Give a name to your Bot. The name you give it is the one you will see when you invoke the bot in Slack.
