@@ -15,7 +15,7 @@ botTaskActions = {
 client.autopilot.assistants('xxxxxxxxxxxxxxxxxx')
                 .tasks
                 .create({
-                  uniqueName: 'git-bot',
+                  uniqueName: 'git-bot', // Change this if you don't like the name ;(
                   actions: botTaskActions,
                 })
                 .then(assistant => console.log(assistant.sid))
