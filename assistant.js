@@ -5,7 +5,7 @@ const client = require('twilio')(accountSid, authToken);
 
 client.autopilot.assistants
                 .create({
-                   friendlyName: 'Bot assistant', // 
+                   friendlyName: 'Bot assistant',
                    uniqueName: 'bot-assistant'
                  })
                 .then(assistant => console.log(assistant.sid))
