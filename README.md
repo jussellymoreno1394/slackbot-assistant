@@ -1,7 +1,7 @@
 # SlackBotAssistant  :octocat:
 
 
-### Creating a project with Twilio Autopilot:
+### Creating a project with Twilio Autopilot :
 
 - Create an account if you don't have one. Go to [Twilio](https://www.twilio.com).
 
