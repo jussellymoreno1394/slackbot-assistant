@@ -44,8 +44,8 @@
   ### command for assistant and task creation  :computer::
   
   
-   ``` node assistant.js ```
+   ``` node Assistant.js ```
      
-   ``` node task.js  ```
+   ``` node Task.js  ```
   
   **Note:**  This files are a simple way for assistant and assistant task creation, using Twilio Autopilot and Slack Outgoing WebHook app.
