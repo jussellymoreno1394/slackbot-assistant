@@ -1,4 +1,4 @@
-# SlackBotAssistant  :octocat:
+# SlackBot Assistant  :octocat:
 
 
 ### Creating a project with Twilio Autopilot :
